@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\_app.js": 3,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\_error.js": 4,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\about.js": 5,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\index.js": 6,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\p\\[id].js": 7,
+      "static\\jDuu79bWtEZIA2foNydBM\\pages\\post.js": 8,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\_app.js": 9,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\_error.js": 10,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\about.js": 11,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\index.js": 12,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\p\\[id].js": 13,
+      "static\\AT4KdqBm7TvUMnoTZ7ul5\\pages\\post.js": 14,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\_app.js": 3,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\_error.js": 4,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\about.js": 5,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\index.js": 6,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\p\\[id].js": 7,
+      "static\\NwOy03M3VDev6ZnfL7fro\\pages\\post.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
